@@ -1,0 +1,6 @@
+traffic.c:13:5:getRedDuration	4	static
+traffic.c:18:5:getAmberDuration	4	static
+traffic.c:23:5:getGreenDuration	4	static
+traffic.c:28:6:updateClockBuffer	32	static
+traffic.c:61:6:displayContent	16	static
+traffic.c:89:6:display7Segment	16	static

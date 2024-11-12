@@ -1,0 +1,2 @@
+fsm_mode.c:20:6:fsm_run	8	static
+fsm_mode.c:122:6:initial	8	static
